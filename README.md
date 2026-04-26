@@ -30,12 +30,6 @@ This project presents an interactive Tableau dashboard analyzing crime patterns 
 * `images/` → Dashboard screenshots
 * `docs/` → Project presentation
 
-## 📸 Dashboard Preview
-
-![Overview](images/dashboard_overview.png)
-![State Analysis](images/state_analysis.png)
-![Year Trends](images/year_trends.png)
-
 ## 📊 Key Insights
 
 * Certain states consistently show higher crime rates over the years
