@@ -24,12 +24,6 @@ This project presents an interactive Tableau dashboard analyzing crime patterns 
 * Tableau (Data Visualization)
 * Excel / CSV Dataset
 
-## 📁 Project Structure
-
-* `dashboards/` → Tableau Workbook (.twb)
-* `images/` → Dashboard screenshots
-* `docs/` → Project presentation
-
 ## 📊 Key Insights
 
 * Certain states consistently show higher crime rates over the years
@@ -39,7 +33,7 @@ This project presents an interactive Tableau dashboard analyzing crime patterns 
 
 ## 🚀 How to Use
 
-1. Download the `.twb` file from `dashboards/`
+1. Download the `.twb` file 
 2. Open using Tableau Desktop or Tableau Public
 3. Explore filters and interactive dashboards
 
